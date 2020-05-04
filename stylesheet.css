@@ -6,6 +6,39 @@
   padding: 0;
 }
 
-.header {
-  color: blue;
+.upper {
+  display: flex;
+}
+
+.ucompany {
+  display: flex;
+}
+
+.ucompany-logo-1 {
+  height: 70px;
+}
+
+.ucompany-name-main {
+  font-size: 40px;
+}
+
+.ucompany-name-main-span {
+  font-size: 30px;
+}
+
+.ucontact {
+  margin-left: auto;
+}
+
+.ucontact-tel {
+  font-size: 30px;
+}
+
+.llist-ul {
+  display: flex;
+  margin: 10px;
+}
+
+li {
+  margin: 0 auto;
 }
