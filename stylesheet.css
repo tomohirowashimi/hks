@@ -53,15 +53,20 @@ li {
 
 .main {
   text-align: center;
-  margin: 50px;
+}
+
+.main h2 {
+  text-align: center;
+  margin: 30px;
+  font-size: 40px;
 }
 
 .main-upper {
   display: flex;
 }
 
-.main-upper h2 {
-  font-size: 30px;
+.main-upper h3 {
+  font-size: 25px;
 }
 
 .mcase1 {
@@ -76,8 +81,8 @@ li {
   display: flex;
 }
 
-.main-lower h2 {
-  font-size: 30px;
+.main-lower h3 {
+  font-size: 25px;
 }
 
 .mcase4 {
@@ -86,4 +91,10 @@ li {
 
 .mcase6 {
   margin-left: auto;
+}
+
+.mcase-fig {
+  height: 250px;
+  border: solid;
+  border-radius: 10px;
 }
