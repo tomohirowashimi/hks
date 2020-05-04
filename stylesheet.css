@@ -8,6 +8,7 @@
 
 .upper {
   display: flex;
+  margin: 20px;
 }
 
 .ucompany {
@@ -20,10 +21,15 @@
 
 .ucompany-name-main {
   font-size: 40px;
+  margin: 0 10px;
 }
 
 .ucompany-name-main-span {
   font-size: 30px;
+}
+
+.ucompany-name-sub {
+  margin: 0 20px;
 }
 
 .ucontact {
@@ -31,7 +37,7 @@
 }
 
 .ucontact-tel {
-  font-size: 30px;
+  font-size: 40px;
 }
 
 .llist-ul {
