@@ -6,45 +6,84 @@
   padding: 0;
 }
 
-.upper {
+.header-upper {
   display: flex;
   margin: 20px;
 }
 
-.ucompany {
+.hcompany {
   display: flex;
 }
 
-.ucompany-logo-1 {
-  height: 70px;
+.hcompany-logo-1 {
+  height: 90px;
 }
 
-.ucompany-name-main {
-  font-size: 40px;
+.hcompany-name-main h1 {
+  font-size: 50px;
   margin: 0 10px;
 }
 
-.ucompany-name-main-span {
-  font-size: 30px;
+.hcompany-name-main h1 span {
+  font-size: 40px;
 }
 
-.ucompany-name-sub {
+.hcompany-name-sub h2 {
   margin: 0 20px;
+  font-size: 20px;
 }
 
-.ucontact {
+.hcontact {
   margin-left: auto;
 }
 
-.ucontact-tel {
-  font-size: 40px;
+.hcontact-tel {
+  font-size: 50px;
 }
 
 .llist-ul {
   display: flex;
   margin: 10px;
+  font-size: 20px;
 }
 
 li {
   margin: 0 auto;
+}
+
+.main {
+  text-align: center;
+  margin: 50px;
+}
+
+.main-upper {
+  display: flex;
+}
+
+.main-upper h2 {
+  font-size: 30px;
+}
+
+.mcase1 {
+  margin-right: auto;
+}
+
+.mcase3 {
+  margin-left: auto;
+}
+
+.main-lower {
+  display: flex;
+}
+
+.main-lower h2 {
+  font-size: 30px;
+}
+
+.mcase4 {
+  margin-right: auto;
+}
+
+.mcase6 {
+  margin-left: auto;
 }
