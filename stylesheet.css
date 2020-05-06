@@ -41,7 +41,7 @@
   font-size: 50px;
 }
 
-.llist-ul {
+.hlist-ul {
   display: flex;
   margin: 10px;
   font-size: 20px;
@@ -63,34 +63,20 @@ li {
 
 .main-upper {
   display: flex;
+  justify-content: space-around;
 }
 
 .main-upper h3 {
   font-size: 25px;
 }
 
-.mcase1 {
-  margin-right: auto;
-}
-
-.mcase3 {
-  margin-left: auto;
-}
-
 .main-lower {
   display: flex;
+  justify-content: space-around;
 }
 
 .main-lower h3 {
   font-size: 25px;
-}
-
-.mcase4 {
-  margin-right: auto;
-}
-
-.mcase6 {
-  margin-left: auto;
 }
 
 .mcase-fig {
