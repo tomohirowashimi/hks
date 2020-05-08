@@ -2,8 +2,8 @@
 　text-align: center;
   box-sizing: border-box;
   list-style: none;
-  margin: 0;
-  padding: 0;
+  margin: 10;
+  padding: 10;
 }
 
 .header-upper {
@@ -83,4 +83,33 @@ li {
   height: 250px;
   border: solid;
   border-radius: 10px;
+}
+
+.price h2 {
+  margin: 20px 0 10px 10px;
+  font-size: 30px;
+}
+
+.price-content {
+  display: flex;
+}
+
+.pcontent-fig {
+  margin: 0 0 0 40px;
+  height: 200px;
+}
+
+.pcontent-left-name h3 {
+  margin: 10px 0 0 40px;
+  font-size: 30px;
+}
+
+.pcontent-right-price {
+  margin: 10px 0 0 0;
+  font-size: 30px;
+}
+
+.pcontent-right-sample {
+  margin: 40px 0 0 10px;
+  font-size: 20px;
 }
