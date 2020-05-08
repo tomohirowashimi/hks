@@ -6,6 +6,15 @@
   padding: 10;
 }
 
+body {
+  background-image: url("");
+}
+
+.main {
+  background-image: url("https://github.com/tomohirowashimi/hks/blob/master/back-fig2.png?raw=true");
+  background-size: contain;
+}
+
 .header-upper {
   display: flex;
   margin: 20px;
@@ -57,17 +66,19 @@ li {
 
 .main h2 {
   text-align: center;
-  margin: 30px;
+  margin: 20px 0 5px 0;
   font-size: 40px;
 }
 
 .main-upper {
   display: flex;
   justify-content: space-around;
+  margin: 0;
 }
 
 .main-upper h3 {
   font-size: 25px;
+  margin: 5px;
 }
 
 .main-lower {
@@ -77,6 +88,7 @@ li {
 
 .main-lower h3 {
   font-size: 25px;
+  margin: 5px;
 }
 
 .mcase-fig {
