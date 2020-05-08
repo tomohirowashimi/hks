@@ -10,11 +10,6 @@ body {
   background-image: url("");
 }
 
-.main {
-  background-image: url("https://github.com/tomohirowashimi/hks/blob/master/back-fig2.png?raw=true");
-  background-size: contain;
-}
-
 .header-upper {
   display: flex;
   margin: 20px;
@@ -73,7 +68,8 @@ li {
 .main-upper {
   display: flex;
   justify-content: space-around;
-  margin: 0;
+  background-image: url("https://github.com/tomohirowashimi/hks/blob/master/back-fig2.png?raw=true");
+  background-size: contain;
 }
 
 .main-upper h3 {
@@ -84,6 +80,8 @@ li {
 .main-lower {
   display: flex;
   justify-content: space-around;
+  background-image: url("https://github.com/tomohirowashimi/hks/blob/master/back-fig2.png?raw=true");
+  background-size: contain;
 }
 
 .main-lower h3 {
