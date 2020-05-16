@@ -57,6 +57,7 @@ li {
 
 .main {
   text-align: center;
+  margin-bottom: 50px;
 }
 
 .main h2 {
@@ -95,6 +96,10 @@ li {
   border-radius: 10px;
 }
 
+.price {
+  margin-bottom: 30px;
+}
+
 .price h2 {
   margin: 20px 0 10px 10px;
   font-size: 30px;
@@ -128,8 +133,8 @@ li {
   font-size: 20px;
 }
 
-.eria_content {
-  display: flex;
+.eria {
+  margin-bottom: 30px;
 }
 
 .eria h2 {
@@ -137,9 +142,18 @@ li {
   font-size: 30px;
 }
 
+.eria_content {
+  display: flex;
+}
+
 .eria_fig {
   margin: 0 0 0 50px;
   height: 300px;
+}
+
+.eria_fig_2 {
+  height: 100px;
+  margin: auto;
 }
 
 .eria_text_main h3 {
@@ -149,4 +163,13 @@ li {
 .eria_text_sub {
   font-size: 20px;
   margin-left: 30px;
+}
+
+.question {
+  margin-bottom: 30px;
+}
+
+.question h2 {
+  margin: 20px 0 10px 10px;
+  font-size: 30px;
 }
