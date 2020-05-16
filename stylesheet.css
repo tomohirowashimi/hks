@@ -103,6 +103,7 @@ li {
 .price-content {
   display: flex;
   margin: 0 0 20px 0;
+  border: solid 1px #000000;
 }
 
 .pcontent-fig {
@@ -125,4 +126,27 @@ li {
 .pcontent-right-sample {
   margin: 40px 0 0 10px;
   font-size: 20px;
+}
+
+.eria_content {
+  display: flex;
+}
+
+.eria h2 {
+  margin: 20px 0 10px 10px;
+  font-size: 30px;
+}
+
+.eria_fig {
+  margin: 0 0 0 50px;
+  height: 300px;
+}
+
+.eria_text_main h3 {
+  font-size: 30px;
+}
+
+.eria_text_sub {
+  font-size: 20px;
+  margin-left: 30px;
 }
